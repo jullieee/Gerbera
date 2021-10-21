@@ -1,0 +1,30 @@
+@font-face {
+	font-family: 'Gerbera-Light';
+	src: url('../fonts/Gerbera-Light.woff2') format('woff2'),
+		   url('../fonts/Gerbera-Light.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+	font-family: 'Gerbera';
+	src: url('../fonts/Gerbera.woff2') format('woff2'),
+		   url('../fonts/Gerbera.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+	font-family: 'Gerbera-Medium';
+	src: url('../fonts/Gerbera-Medium.woff2') format('woff2'),
+		   url('../fonts/Gerbera-Medium.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+	font-family: 'Gerbera-Bold';
+	src: url('../fonts/Gerbera-Bold.woff2') format('woff2'),
+		   url('../fonts/Gerbera-Bold.woff') format('woff');
+  font-weight: 900;
+}
+@font-face {
+	font-family: 'Gerbera-Black';
+	src: url('../fonts/Gerbera-Black.woff2') format('woff2'),
+		   url('../fonts/Gerbera-Black.woff') format('woff');
+  font-weight: 900;
+}

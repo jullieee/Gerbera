@@ -1,0 +1,296 @@
+@import 'reset.css';
+@import 'fonts.css';
+
+body {
+  font-family: 'Gerbera';
+  position: relative;
+  width: 1280px;
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+  background: #FFFFFF;
+  }
+
+  html {
+  background: #F5F5F5;
+  height: 6455px;
+  position: relative;
+  scroll-behavior: smooth;
+  }
+
+    .gerbera, .ab {
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 180px;
+    line-height: 280px;
+    color: black;
+  }
+    .gerbera {
+    position: absolute;
+    width: 693px;
+    height: 241px;
+    left: 100px;
+    top: 230px;
+  }
+
+    .grotesk {
+    position: absolute;
+    width: 787px;
+    height: 128px;
+    left: 110px;
+    top: 465px;
+
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 64px;
+
+    color: black;
+  }
+
+    .cover1 {
+    position: absolute;
+    width: 567px;
+    height: 562px;
+    left: 720px;
+    top: 20px;
+  }
+
+  .text1, .text2, .text3, .text4, .text5, .text6, .text7, .text8, .text9, .text10 {
+    position: absolute;
+    font-family: 'Gerbera';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #000000;
+  }
+
+    .text1 {
+      width: 437px;
+      height: 105px;
+      left: 110px;
+      top: 697px;
+    }
+
+    .text2 {
+      width: 305px;
+      height: 105px;
+      left: 110px;
+      top: 810px;
+    }
+
+      .humans {
+      position: absolute;
+      width: 750px;
+      height: 642px;
+      left: 470px;
+      top: 730px;
+    }
+
+
+    .pol1, .pol2, .pol3, .pol4 {
+      position: absolute;
+      height: 5px;
+      background-color: #8490FF;
+    }
+      .pol1 {
+        top: 1410px;
+        left: 350px;
+        width: 600px;
+      }
+      .pol2 {
+        top: 1430px;
+        left: 250px;
+        width: 800px;
+      }
+      .pol3 {
+        top: 2230px;
+        left: 250px;
+        width: 800px;
+      }
+      .pol4 {
+        top: 2250px;
+        left: 350px;
+        width: 600px;
+      }
+
+    .bold {
+      position: absolute;
+      width: 1180px;
+      height: 728px;
+      left: 100px;
+      top: 1470px;
+    }
+
+    .text3 {
+      width: 489px;
+      height: 96px;
+      left: 110px;
+      top: 2345px;
+    }
+
+    .black {
+      position: absolute;
+      top: 2480px;
+      width: 1280px;
+      height: 480px;
+      background-color: black;
+    }
+
+    .perv {
+      position: absolute;
+      width: 1250px;
+      height: 320px;
+      left: 45px;
+      top: 2560px;
+    }
+
+    .text4 {
+      width: 542px;
+      height: 128px;
+      left: 110px;
+      top: 3060px;
+    }
+
+    .ab {
+      position: absolute;
+      width: 560px;
+      height: 150px;
+      left: 0px;
+      top: 3250px;
+    }
+
+    .contrast {
+      position: absolute;
+      width: 792px;
+      height: 700px;
+      left: 500px;
+      top: 3020px;
+     }
+
+     .text5 {
+       width: 399px;
+       height: 96px;
+       left: 110px;
+       top: 3500px;
+     }
+     .terminals {
+       position: absolute;
+       width: 276px;
+       height: 429px;
+       left: 270px;
+       top: 3600px;
+     }
+
+     .text6 {
+       width: 448px;
+       height: 137px;
+       left: 700px;
+       top: 3700px;
+     }
+
+     .znaki {
+       position: absolute;
+       width: 424px;
+       height: 194px;
+       left: 740px;
+       top: 3830px;
+     }
+
+     .ship {
+       position: absolute;
+       width: 1400px;
+       height: 1280px;
+       left: -70px;
+       top: 3850px;
+     }
+      .text7 {
+        width: 449px;
+        height: 96px;
+        left: 450px;
+        top: 4620px;
+    }
+      .t1 {
+        position: absolute;
+        width: 393px;
+        height: 230px;
+        left: 880px;
+        top: 4570px;
+    }
+      .t2 {
+        position: absolute;
+        width: 393px;
+        height: 230px;
+        left: 410px;
+        top: 4780px;
+    }
+
+      .text8 {
+        width: 639px;
+        height: 192px;
+        left: 600px;
+        top: 5100px;
+    }
+      .teleskop {
+        position: absolute;
+        width: 555px;
+        height: 500px;
+        left: 15px;
+        top: 5220px;
+    }
+      .text9 {
+        width: 498px;
+        height: 75px;
+        left: 600px;
+        top: 5450px;
+    }
+      .numbers {
+        position: absolute;
+        width: 750px;
+        height: 400px;
+        left: 475px;
+        top: 5510px;
+    }
+      .text10 {
+        width: 532px;
+        height: 100px;
+        left: 110px;
+        top: 5940px;
+    }
+      .glifs {
+        position: absolute;
+        width: 486px;
+        height: 345px;
+        left: 720px;
+        top: 5930px;
+    }
+    .end {
+      position: absolute;
+      top: 6370px;
+      width: 1280px;
+      height: 85px;
+      background-color: black;
+    }
+    .text11, .text12 {
+      top: 6401px;
+      position: absolute;
+      font-family: 'Gerbera';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 24px;
+      color: #FFFFFF;
+    }
+      .text11 {
+        width: 218px;
+        height: 31px;
+        left: 110px;
+    }
+      .text12 {
+        width: 68px;
+        height: 31px;
+        left: 1115px;
+    }
